@@ -3,9 +3,11 @@ package com.springframework.didemo.controllers;
 import com.springframework.didemo.services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.jupiter.api.Test;
+import org.springframework.stereotype.Controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+@Controller
 public class SetterInjectedControllerTest {
 
     private SetterInjectedController setterInjectedController;
