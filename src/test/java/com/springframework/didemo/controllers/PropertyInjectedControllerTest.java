@@ -1,9 +1,8 @@
 package com.springframework.didemo.controllers;
 
-import com.springframework.didemo.services.GreetingServiceImpl;
+import services.GreetingServiceImpl;
 import org.junit.Before;
 import org.junit.Test;
-import org.springframework.stereotype.Controller;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

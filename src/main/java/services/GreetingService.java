@@ -1,4 +1,4 @@
-package com.springframework.didemo.services;
+package services;
 
 public interface GreetingService {
 
