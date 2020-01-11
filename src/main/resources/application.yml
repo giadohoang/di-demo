@@ -3,3 +3,9 @@ com:
     username: JMS Username from yml
     password: newPasswordOnYml
     dburl: newURLOnYml
+---
+spring:
+  profiles:de
+com:
+  jms:
+    username: JMS Username from yml overide German
