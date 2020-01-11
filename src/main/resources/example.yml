@@ -1,0 +1,35 @@
+#comment tag
+name:johnny
+
+names: #inline comment anywhere
+  - Johnnie
+  - Suzukie
+  - Socky
+
+pound_sign: "#"
+
+book:
+  author: John DOe
+  publisher: random house
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+false: no #No, false, FALSE
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one two three"
+
+incluse_new_lines: |
+  hellow world
+  how are you?
+  Fine thanks!
+
+ignore_new_lines: >
+  this is just
+  a long string
+  that is ignored
